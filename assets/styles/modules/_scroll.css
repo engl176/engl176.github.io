@@ -1,0 +1,46 @@
+.scroll {
+  height: 110%;
+  width: 100%;
+  margin-top:250px;
+}
+
+.container {
+  padding-right: 15px;
+  margin-left:50px;
+
+}
+
+.scroll h1 {
+  font-size: 1em;
+}
+
+.scroll ul {
+  padding:0;
+  display:table;
+  list-style:none;
+}
+
+.scroll li {
+  min-width:500px;
+	text-align:center;
+	display:table-cell;
+  vertical-align:middle;
+  padding-right:100px;
+}
+
+#style {
+  width: 50px;
+  font-size: .8em;
+  line-height: 20px;
+  letter-spacing: .4px;
+  text-align: justify;
+  font-family: 'Droid Serif', serif;">
+  <span style = "font-size:1.1em;font-family:'Lato';font-weight:bold;letter-spacing:4px;
+}
+
+#title {
+  font-family: 'Lato';
+  font-weight: bold;
+  font-size: 1.1em;
+  letter-spacing: 4px;
+}

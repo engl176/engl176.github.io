@@ -1,0 +1,13 @@
+
+
+.header {
+  position: fixed;
+
+  &__title {
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    width: 550px;
+    line-height: 1.4em;
+  }
+}
